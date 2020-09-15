@@ -1,6 +1,5 @@
 ### Hi, I'm Luís G. Pereira 👋
-- 🤓  🤖 Software Engineer at [@hedrosistemas](https://hedro.com.br)  🤖.
-- 🤓  💸Software Engineer at  [@clieent® CRM](https://clieent.com/))  💸.
+-- 🤓  💸Software Engineer at  [@clieent® CRM](https://clieent.com/))  💸.
 
 ###  ⚙️  👨‍💻 My favorite technologies are :
 
@@ -31,6 +30,10 @@
 
 -  👔 👔[Linkedin/devluispereira](https://www.linkedin.com/in/devluispereira/).
 -  👀 📸 [Instagram @devluispereira](https://www.instagram.com/devluispereira/)
+
+<a href="https://www.linkedin.com/in/devluispereira/"> ![Linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin)</a>
+<a href="https://www.instagram.com/devluispereira"> ![Instagran](https://img.shields.io/badge/-Insta-7248C6?style=flat-square&logo=instagram)</a>
+
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=devluispereira&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluispereira&layout=compact&theme=graywhite"/> </p>
