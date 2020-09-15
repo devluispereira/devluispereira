@@ -9,8 +9,8 @@
 -  👔 👔[Linkedin/devluispereira](https://www.linkedin.com/in/devluispereira/).
 -  👀 📸 [Instagram @devluispereira](https://www.instagram.com/devluispereira/)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devluispereira&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluispereira&layout=compact&theme=graywhite"/> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=devluispereira&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluispereira&layout=compact&theme=graywhite"/> </p>
 
 <!--
 **devluispereira/devluispereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
