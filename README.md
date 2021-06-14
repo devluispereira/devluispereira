@@ -1,5 +1,5 @@
 ### Hi, I'm Luís G. Pereira 👋
--- 🤓  💸Software Engineer at  [@clieent® CRM](https://clieent.com/))  💸.
+-- 🤓  💸Software Engineer
 
 ###  ⚙️  👨‍💻 My favorite technologies are :
 
